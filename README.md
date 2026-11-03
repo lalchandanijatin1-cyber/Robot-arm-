@@ -257,6 +257,4 @@ Mini project team, Basic Robotics Workshop:
 | **Varad Kannav** |
 | **Tanushree** |
 
-## License
 
-Add a license before sharing publicly, for example MIT for the code and CC BY 4.0 for the CAD files.
