@@ -26,8 +26,7 @@ Mini project for the **Basic Robotics Workshop**.
 12. [Safety](#safety)
 13. [Known limitations](#known-limitations)
 14. [Future work](#future-work)
-15. [Repository structure](#repository-structure)
-16. [Team](#team)
+15. [Team](#team)
 
 ---
 
